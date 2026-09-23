@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Nimitha
 
-<!--
-**nimitha-n-data/nimitha-n-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BCA student at Jain University with an interest in Data Analytics and practical problem solving.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- BCA Student at Jain University
+- Aspiring Data Analyst
+- Learning and working with Python
+- Working with SQL and databases
+- Building dashboards using Power BI
+- Interested in data analysis and visualization
+
+## Skills
+
+**Programming:**  
+Python, C
+
+**Data Analytics:**  
+Pandas, NumPy, Matplotlib, Data Analysis, Data Visualization
+
+**Database:**  
+SQL, MySQL, Oracle SQL
+
+**Visualization:**  
+Power BI
+
+## Featured Projects
+
+### Restaurant Data Analysis
+Analyzed restaurant data using Python, Pandas, NumPy and Matplotlib to identify patterns and insights.
+
+### Employee Attrition Analysis Dashboard
+Created an interactive employee attrition dashboard using Microsoft Power BI to analyze departments, job roles, overtime, gender, job satisfaction and marital status.
+
+### Port Scanner GUI
+Developed a GUI-based port scanner using Python, Tkinter, socket programming and multithreading.
+
+## Currently Learning
+
+Data Analytics | SQL | Power BI | Python
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/nimitha-n-b7b44031b)
